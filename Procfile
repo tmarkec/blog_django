@@ -1,1 +1,1 @@
-web: gunicorn tot-blog.wsgi
+web: gunicorn codestar2021.wsgi
